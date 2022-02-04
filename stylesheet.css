@@ -1,0 +1,84 @@
+body {
+  margin: auto;
+  max-width: 1000px;
+  font-size: 12pt;
+  background-color: #f7ede2;
+  font-family: "Raleway", sans-serif;
+  padding: 2em;
+}
+h1 {
+  font-size: 40px;
+  padding: 0.15em;
+  background-color: #fbf8cc;
+  border-style: solid;
+  border-radius: 0.5em;
+}
+h2 {
+  font-size: x-large;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #f5cac3;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #84a59d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #84a59d;
+  color: #f6bd60;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #f5cac3;
+  color: #84a59d;
+}
+body,
+h1,
+h2 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  padding: 0.5em;
+}
+
+.header_div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 65%;
+  border-radius: 1.5em;
+}
+h2 {
+  font-size: xx-large;
+  box-sizing: border-box;
+  background-color: #f5cac3;
+  color: #84a59d;
+  padding: 0.15em;
+  background-color: #f5cac3;
+  border-style: solid;
+  border-radius: 0.1em;
+}
+h3 {
+  color: #84a59d;
+}
+.content {
+  color: #84a59d;
+}
+p {
+  font-size: 20px;
+}
