@@ -1,4 +1,6 @@
 
+package orderCookies;
+
 public class Order extends javax.swing.JFrame {
 
     /**
@@ -288,3 +290,4 @@ public class Order extends javax.swing.JFrame {
     private javax.swing.JToggleButton jToggleButton1;
     // End of variables declaration//GEN-END:variables
 }
+
